@@ -26,6 +26,7 @@ Analyze Weather Data in Oahu Hawaii using Python
 - SQLite Database 
 
 ## Results
+
 - **Steps to analyze June temperature data:**
 
    - Filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June
@@ -38,9 +39,6 @@ Analyze Weather Data in Oahu Hawaii using Python
     ![June_Temps_Query](Evidence/June_Temps_Query.png)
 
 
-    **Oahu June Temperature Summary Statistics**
-   
-    ![June_Temps_Summary_Statistics](Evidence/June_Temps_Summary_Statistics.png)
 
 
 - **Steps to analyze December temperature data:**
