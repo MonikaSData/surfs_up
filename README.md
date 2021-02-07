@@ -78,4 +78,14 @@ Based on the analysis of the temperature data points in June and December it see
     - Get min and max temperature for June and December by year 
     - Get average temperature for June and December (overall and by year)
 
+**Example of Additional Queries:**
+
+**Average Temperatures for December by Year (Query and Output)**
+
+    ![Evidence/Dec_Avg_Temp_by_Year](Evidence/Dec_Avg_Temp_by_Year.png)
+
+
+**Average Temperatures for June by Year (Query and Output)**
+
+    ![June_Avg_Temp_by_Year](Evidence/June_Avg_Temp_by_Year.png)
     
