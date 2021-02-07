@@ -60,6 +60,11 @@ Analyze Weather Data in Oahu Hawaii using Python
 
 ## Summary
 
+- **Findings:**
+    - We have more data points for the month of June (1700 for June vs. 1517 for December)
+    - The temperature in June is on average higher by 3.9 degrees compared to December
+    - The temperature difference in December is slightly more than in June (both months have sd over 3 degrees; June sd = 3.26; December sd = 3.75) -> higher spread of data in December might indicate more frequent and significant change in temperature
+
 - **Additional queries to perform to gather more weather data for June and December:**
     - Get temperature data by year and compare year over year trends for June and December
     - Get min and max temperature for Jume amd December by year 
