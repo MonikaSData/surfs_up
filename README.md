@@ -67,7 +67,7 @@ Analyze Weather Data in Oahu Hawaii using Python
 
 - **Additional queries to perform to gather more weather data for June and December:**
     - Get temperature data by year and compare year over year trends for June and December
-    - Get min and max temperature for Jume amd December by year 
+    - Get min and max temperature for June and December by year 
     - Get average temperature for June and December (overall and by year)
 
     
