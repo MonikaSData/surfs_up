@@ -53,6 +53,19 @@ Analyze Weather Data in Oahu Hawaii using Python
     ![Dec_Temps_Query](Evidence/Dec_Temps_Query.png)
 
 
+
+- **Findings:**
+    - We have more data points for the month of June (1700 for June vs. 1517 for December)
+    - The temperature in June is on average higher by 3.9 degrees compared to December
+    - The temperature difference in December is slightly more than in June (both months have sd over 3 degrees; June sd = 3.26; December sd = 3.75) -> higher spread of data in December might indicate more frequent and significant change in temperature
+
+
+
+    **Oahu June Temperature Summary Statistics**
+   
+    ![June_Temps_Summary_Statistics](Evidence/June_Temps_Summary_Statistics.png)
+
+
     **Oahu December Temperature Summary Statistics**
 
     ![Dec_Temps_Summary_Statistics](Evidence/Dec_Temps_Summary_Statistics.png)
@@ -60,10 +73,7 @@ Analyze Weather Data in Oahu Hawaii using Python
 
 ## Summary
 
-- **Findings:**
-    - We have more data points for the month of June (1700 for June vs. 1517 for December)
-    - The temperature in June is on average higher by 3.9 degrees compared to December
-    - The temperature difference in December is slightly more than in June (both months have sd over 3 degrees; June sd = 3.26; December sd = 3.75) -> higher spread of data in December might indicate more frequent and significant change in temperature
+Based on the analysis of the temperature data points in June and December it seems that the weather is favorable year round for outdoor activities in Oahu and that the surf and ice cream shop business is sustainable year-round.
 
 - **Additional queries to perform to gather more weather data for June and December:**
     - Get temperature data by year and compare year over year trends for June and December
